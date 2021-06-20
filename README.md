@@ -19,7 +19,7 @@ Many machine learning methods do not accept data with missing values, so
 6. Diabetes pedigree function.
 7. Age (years).
 8. Class variable (0 or 1)
-# Algorithms that Support Missing Values are:
+# Algorithms that Support Missing Values like:
      k-Nearest Neighbors that can ignore a column from a distance measure
            when a value is missing. 
      Naive Bayes can also support missing values when making a prediction.
